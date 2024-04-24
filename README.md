@@ -15,7 +15,7 @@ pip install opencv-python
 
 **Usage**
 To run the motion detection program, execute the following command:
-python motion_detection.py
+python MoDet.py
 
 Technologies Used;
 * Python
